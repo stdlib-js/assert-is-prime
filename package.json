@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/assert-is-prime",
+  "version": "0.0.0",
+  "description": "Test if a value is a prime number.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-prime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "number",
+    "numeric",
+    "integer",
+    "int",
+    "prime",
+    "primality",
+    "is",
+    "isprime",
+    "type",
+    "check",
+    "valid",
+    "validate",
+    "test",
+    "primitive",
+    "object"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
