@@ -47,9 +47,9 @@
     "@stdlib/datasets-primes-100k": "^0.1.0",
     "@stdlib/math-base-special-floor": "^0.1.0",
     "@stdlib/math-base-special-log10": "^0.1.0",
-    "@stdlib/math-base-special-pow": "^0.0.7",
+    "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/number-ctor": "^0.1.0",
-    "@stdlib/random-base-discrete-uniform": "^0.0.6",
+    "@stdlib/random-base-discrete-uniform": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
