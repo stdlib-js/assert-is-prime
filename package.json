@@ -37,18 +37,18 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-number": "^0.1.0",
+    "@stdlib/assert-is-number": "^0.1.1",
     "@stdlib/math-base-assert-is-prime": "^0.1.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.0"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.1.0",
+    "@stdlib/assert-is-boolean": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/datasets-primes-100k": "^0.1.0",
+    "@stdlib/datasets-primes-100k": "^0.1.1",
     "@stdlib/math-base-special-floor": "^0.1.0",
     "@stdlib/math-base-special-log10": "^0.1.0",
     "@stdlib/math-base-special-pow": "^0.1.0",
-    "@stdlib/number-ctor": "^0.1.0",
+    "@stdlib/number-ctor": "^0.1.1",
     "@stdlib/random-base-discrete-uniform": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
