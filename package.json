@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
-    "@stdlib/bench": "^0.1.0",
+    "@stdlib/bench": "^0.2.0",
     "@stdlib/datasets-primes-100k": "^0.1.1",
     "@stdlib/math-base-special-floor": "^0.1.1",
     "@stdlib/math-base-special-log10": "^0.1.1",
