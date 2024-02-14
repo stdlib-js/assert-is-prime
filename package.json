@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-prime",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Test if a value is a prime number.",
   "license": "Apache-2.0",
   "author": {
@@ -37,15 +37,15 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-number": "^0.1.1",
-    "@stdlib/math-base-assert-is-prime": "^0.1.1",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
+    "@stdlib/assert-is-number": "^0.2.0",
+    "@stdlib/math-base-assert-is-prime": "^0.2.0",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
-    "@stdlib/datasets-primes-100k": "^0.1.1",
+    "@stdlib/datasets-primes-100k": "^0.2.0",
     "@stdlib/math-base-special-floor": "^0.1.1",
-    "@stdlib/math-base-special-log10": "^0.1.1",
+    "@stdlib/math-base-special-log10": "^0.2.0",
     "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/number-ctor": "^0.1.1",
     "@stdlib/random-base-discrete-uniform": "^0.1.0",
