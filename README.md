@@ -50,13 +50,13 @@ A **prime number** is defined as an integer value greater than `1` which is only
 ## Usage
 
 ```javascript
-import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@esm/index.mjs';
+import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@esm/index.mjs';
+import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@v0.2.2-esm/index.mjs';
 ```
 
 #### isPrime( value )
@@ -138,7 +138,7 @@ bool = isPrime.isObject( new Number( 5.0 ) );
 <script type="module">
 
 import Number from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@esm/index.mjs';
-import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@esm/index.mjs';
+import isPrime from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@v0.2.2-esm/index.mjs';
 
 var bool = isPrime( 5.0 );
 // returns true
