@@ -52,7 +52,7 @@ A **prime number** is defined as an integer value greater than `1` which is only
 To use in Observable,
 
 ```javascript
-isPrime = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@umd/browser.js' )
+isPrime = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@v0.2.2-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -64,7 +64,7 @@ var isPrime = require( 'path/to/vendor/umd/assert-is-prime/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@v0.2.2-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -154,7 +154,7 @@ bool = isPrime.isObject( new Number( 5.0 ) );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-prime@v0.2.2-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
