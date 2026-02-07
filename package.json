@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-prime",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Test if a value is a prime number.",
   "license": "Apache-2.0",
   "author": {
@@ -38,16 +38,16 @@
   },
   "dependencies": {
     "@stdlib/assert-is-number": "^0.2.2",
-    "@stdlib/math-base-assert-is-prime": "^0.3.1",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
+    "@stdlib/math-base-assert-is-prime": "^0.3.2",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/datasets-primes-100k": "^0.2.2",
-    "@stdlib/math-base-special-floor": "^0.2.3",
+    "@stdlib/math-base-special-floor": "^0.2.4",
     "@stdlib/math-base-special-log10": "^0.3.0",
     "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/number-ctor": "^0.2.2",
+    "@stdlib/number-ctor": "^0.2.3",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
