@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-21)
+## Unreleased (2026-11-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f72a5c3`](https://github.com/stdlib-js/stdlib/commit/f72a5c3128b22c1b45c911938df0de432cfea9f0) - **test:** fix method names in comments [(#16643)](https://github.com/stdlib-js/stdlib/pull/16643) _(by Philipp Burckhardt)_
 -   [`342466e`](https://github.com/stdlib-js/stdlib/commit/342466efa3e8837ecd245ff3dd51ef0c40c52ed6) - **bench:** refactor to use string interpolation in `@stdlib/assert` [(#11399)](https:-/github.com/stdlib-js/stdlib/pull/11399) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
